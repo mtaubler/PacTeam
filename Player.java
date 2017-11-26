@@ -5,10 +5,9 @@ import java.awt.Point;
 import java.util.List;
 import pacsim.*;
 /**
- * CAP 4630 
- * PacSimTeam
- * BFS Replan search
- * Brooke Norton and Matthew Taubler
+ * University of Central Florida
+ * CAP4630 - Fall 2017
+ * Authors: Brooke Norton and Matthew Taubler
  */
 public class Player extends AbstractPlayer {
 	 private List<Point> path;
